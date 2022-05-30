@@ -1,0 +1,73 @@
+* {
+  margin: 0px;
+}
+
+header h1 {
+  font-size: 50px;
+  margin-left: 35%;
+  margin-top: 5vh;
+}
+
+header p {
+  font-size: 25px;
+  margin-left: 32%;
+  margin-top: 5vh;
+  width:40%;
+}
+
+p {
+  color:gray;
+}
+
+section h3 {
+  font-size: 30px;
+  margin-left: 25%;
+  margin-top: 10vh;
+  display: inline:block;
+  width:40%;
+}
+
+section p {
+  font-size: 20px;
+  margin-left: 25%;
+  margin-top: 5vh;
+  display: inline-block;
+}
+
+a {
+  display: inline-block;
+  margin-top: 5vh;
+}
+
+img {
+  width:300px;
+  height: 350px;
+  margin-top: 10%;
+  margin-left: 10%;
+  display: inline-block;
+}
+
+a.Verder {
+  background-color: #2ECE90;
+  color: white;
+  text-decoration: none;
+  font-size: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  float:right;
+  margin-right: 5vw;
+}
+
+a.Terug {
+  border: gray 1px solid;
+  color: gray;
+  text-decoration: none;
+  font-size: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 35px;
+  padding-right: 40px;
+  margin-left: 5vw;
+}
